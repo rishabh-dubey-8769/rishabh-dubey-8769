@@ -171,15 +171,6 @@
 
 <div align="center">
 
-# 💻 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,aws,linux&perline=8" />
-</p>
-
-</div>
-
----
 
 ## 💻 Tech Stack
 
