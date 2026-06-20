@@ -190,6 +190,29 @@
 
 <div align="center">
 
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rishabh-dubey-8769/rishabh-dubey-8769/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rishabh-dubey-8769/rishabh-dubey-8769/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/rishabh-dubey-8769/rishabh-dubey-8769/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
 # 📌 GitHub Highlights
 
 | 🚀 Metric              |     Status     |
