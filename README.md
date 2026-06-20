@@ -59,8 +59,6 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
-
 <table>
 <tr>
 
