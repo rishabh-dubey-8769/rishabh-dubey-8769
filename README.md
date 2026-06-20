@@ -57,85 +57,52 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
 
+<div align="center">
+
+## 👨‍💻 About Me
+
 </div>
-
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-### 👨‍💻 Who Am I?
-
-* 🎓 Electrical Engineering Undergraduate at **National Institute of Technology Patna**
-* 💻 Passionate **Full Stack Developer (MERN Stack)**
-* ☁ Currently working as an **AWS Cloud Intern**
-* 🧠 Strong interest in **Data Structures & Algorithms**
-* 🚀 Love building real-world applications that solve practical problems
-* 🌱 Currently learning **System Design, Docker, Kubernetes & Advanced Backend Development**
-* 🎯 Targeting **Software Development Engineer (SDE)** roles at Product-Based Companies
-* 🤝 Always open to collaborating on impactful Open Source Projects
-
-<br>
-
-## 🚀 Current Focus
-
-```text
-📌 Building :
-      • Facial Recognition Attendance System
-      • AI Drawing System
-      • MERN Stack Applications
-      • AWS Cloud Projects
-
-📖 Learning :
-      • Advanced DSA
-      • System Design
-      • AWS Services
-      • Docker
-      • Kubernetes
-
-🎯 2026 Goals :
-      ✔ 1000+ LeetCode Problems
-      ✔ Strong Open Source Contributions
-      ✔ Crack a Product-Based Company
-      ✔ Master Full Stack Development
-```
-
----
-
-## ⚡ Quick Facts
 
 <table>
 <tr>
-<td width="50%">
 
-🌍 Based in India 🇮🇳
+<td width="55%">
 
-🎓 NIT Patna
+🎓 **Electrical Engineering Undergraduate** @ **NIT Patna**
 
-💼 AWS Cloud Intern
+💻 **Full Stack Developer (MERN)** | ☁ **AWS Cloud Intern**
 
-💻 MERN Stack Developer
+🧠 Passionate about **DSA**, Backend Development & Scalable Systems
 
-🧠 DSA Enthusiast
+🚀 Building impactful real-world applications
 
-🚀 Continuous Learner
+🎯 Aspiring **Software Development Engineer (SDE)**
+
+</td>
+
+<td width="45%">
+
+### 🚀 Currently
+
+* 🔭 Facial Recognition Attendance System
+* 🤖 AI Drawing System
+* 📚 DSA for Placements
+* ☁ AWS Cloud & System Design
+
+### ⚡ Quick Facts
+
+* 🇮🇳 India
+* 💡 Fast Learner
+* 🤝 Open to Collaboration
+* ☕ Coffee + Code ❤️
 
 </td>
 
-<td width="50%">
-
-🌱 Currently exploring Cloud Technologies
-
-⚡ Love solving challenging coding problems
-
-🎯 Interested in Scalable Web Applications
-
-🤝 Open Source Contributor
-
-📚 Always learning something new
-
-☕ Coffee + Code = Productivity
-
-</td>
 </tr>
 </table>
+
+---
+
 
 ---
 
