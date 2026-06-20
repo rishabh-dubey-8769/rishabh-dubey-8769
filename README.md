@@ -53,3 +53,119 @@
 </a>
 
 </div>
+<div align="center">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+
+</div>
+
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 👨‍💻 Who Am I?
+
+* 🎓 Electrical Engineering Undergraduate at **National Institute of Technology Patna**
+* 💻 Passionate **Full Stack Developer (MERN Stack)**
+* ☁ Currently working as an **AWS Cloud Intern**
+* 🧠 Strong interest in **Data Structures & Algorithms**
+* 🚀 Love building real-world applications that solve practical problems
+* 🌱 Currently learning **System Design, Docker, Kubernetes & Advanced Backend Development**
+* 🎯 Targeting **Software Development Engineer (SDE)** roles at Product-Based Companies
+* 🤝 Always open to collaborating on impactful Open Source Projects
+
+<br>
+
+## 🚀 Current Focus
+
+```text
+📌 Building :
+      • Facial Recognition Attendance System
+      • AI Drawing System
+      • MERN Stack Applications
+      • AWS Cloud Projects
+
+📖 Learning :
+      • Advanced DSA
+      • System Design
+      • AWS Services
+      • Docker
+      • Kubernetes
+
+🎯 2026 Goals :
+      ✔ 1000+ LeetCode Problems
+      ✔ Strong Open Source Contributions
+      ✔ Crack a Product-Based Company
+      ✔ Master Full Stack Development
+```
+
+---
+
+## ⚡ Quick Facts
+
+<table>
+<tr>
+<td width="50%">
+
+🌍 Based in India 🇮🇳
+
+🎓 NIT Patna
+
+💼 AWS Cloud Intern
+
+💻 MERN Stack Developer
+
+🧠 DSA Enthusiast
+
+🚀 Continuous Learner
+
+</td>
+
+<td width="50%">
+
+🌱 Currently exploring Cloud Technologies
+
+⚡ Love solving challenging coding problems
+
+🎯 Interested in Scalable Web Applications
+
+🤝 Open Source Contributor
+
+📚 Always learning something new
+
+☕ Coffee + Code = Productivity
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 Ask Me About
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures-0088CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Motto
+
+> **"Code with consistency. Learn with curiosity. Build with purpose."**
+
+</div>
+
