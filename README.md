@@ -61,45 +61,42 @@
 
 ## 👨‍💻 About Me
 
-</div>
-
 <table>
 <tr>
 
-<td width="55%">
+<td width="55%" valign="top">
 
-🎓 **Electrical Engineering Undergraduate** @ **NIT Patna**
+🎓 **Electrical Engineering Undergraduate** at **NIT Patna**
 
 💻 **Full Stack Developer (MERN)** | ☁ **AWS Cloud Intern**
 
-🧠 Passionate about **DSA**, Backend Development & Scalable Systems
+🧠 Passionate about **Data Structures & Algorithms**
 
-🚀 Building impactful real-world applications
+🚀 Building scalable full-stack applications
 
 🎯 Aspiring **Software Development Engineer (SDE)**
 
 </td>
 
-<td width="45%">
+<td width="45%" valign="top">
 
-### 🚀 Currently
+### 🚀 Current Focus
 
-* 🔭 Facial Recognition Attendance System
-* 🤖 AI Drawing System
-* 📚 DSA for Placements
-* ☁ AWS Cloud & System Design
+- 🤖 AI Drawing System
+- 📸 Facial Recognition Attendance System
+- 📚 DSA for Placements
+- ☁ AWS • System Design • Docker
 
 ### ⚡ Quick Facts
 
-* 🇮🇳 India
-* 💡 Fast Learner
-* 🤝 Open to Collaboration
-* ☕ Coffee + Code ❤️
+🇮🇳 India • 💡 Fast Learner • 🤝 Open Source • ☕ Coffee × Code
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
