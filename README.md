@@ -120,17 +120,6 @@
 
 ---
 
-<div align="center">
-
-### 💡 Motto
-
-> **"Code with consistency. Learn with curiosity. Build with purpose."**
-
-</div>
-
-<div align="center">
-
-
 ## 💻 Tech Stack
 
 <div align="center">
