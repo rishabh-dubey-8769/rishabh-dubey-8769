@@ -98,9 +98,6 @@
 
 ---
 
-
----
-
 ## 💬 Ask Me About
 
 <p align="center">
