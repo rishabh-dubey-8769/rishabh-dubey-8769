@@ -181,93 +181,22 @@
 
 ---
 
-# 🖥 Programming Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
----
-
-# 🎨 Frontend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
-</p>
-
----
-
-# ⚙ Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
----
-
-# 🗄 Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
----
-
-# ☁ Cloud & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,git,github"/>
-
-</p>
-
----
-
-# 🛠 Tools & IDEs
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/System%20Design-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
----
+## 💻 Tech Stack
 
 <div align="center">
 
-### 🚀 Always Learning • Always Building • Always Improving
+|  **Category** |                                                                          **Technologies**                                                                         |
+| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Languages** |                                                      <img src="https://skillicons.dev/icons?i=java,cpp,js" />                                                     |
+|  **Frontend** |                                                    <img src="https://skillicons.dev/icons?i=html,css,react" />                                                    |
+|  **Backend**  |                                                    <img src="https://skillicons.dev/icons?i=nodejs,express" />                                                    |
+|  **Database** |                                                     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />                                                    |
+|   **Cloud**   |                                                          <img src="https://skillicons.dev/icons?i=aws" />                                                         |
+|   **Tools**   |                                            <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />                                           |
+|  **Learning** | <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> <img src="https://img.shields.io/badge/System%20Design-4285F4?style=flat-square&logoColor=white"/> |
+
+</div>
+
 
 </div>
 <div align="center">
