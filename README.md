@@ -270,4 +270,77 @@
 ### 🚀 Always Learning • Always Building • Always Improving
 
 </div>
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<table>
+<tr>
+
+<td align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabh-dubey-8769&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+</td>
+
+<td align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-dubey-8769&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-dubey-8769&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh-dubey-8769&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=rishabh-dubey-8769&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📌 GitHub Highlights
+
+| 🚀 Metric              |     Status     |
+| :--------------------- | :------------: |
+| 💻 Full Stack Projects |    ✅ Active    |
+| ☁ AWS Projects         |   🚀 Growing   |
+| 📚 DSA Repository      |    ⭐ Active    |
+| 🔥 Open Source Journey | 🌱 In Progress |
+| 🧠 Continuous Learning |    💯 Always   |
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Consistency beats intensity.
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
